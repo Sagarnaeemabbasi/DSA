@@ -1,0 +1,6 @@
+5
+Add 24
+Add 34
+Add 43
+Delete 
+End

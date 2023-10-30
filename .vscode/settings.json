@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "array": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "new": "cpp",
+    "string": "cpp",
+    "iomanip": "cpp",
+    "random": "cpp",
+    "limits": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "enabled"
+}
